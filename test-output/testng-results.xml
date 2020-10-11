@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61921" started-at="2020-10-11T10:43:33Z" finished-at="2020-10-11T10:44:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61921" started-at="2020-10-11T10:43:33Z" finished-at="2020-10-11T10:44:35Z">
+      <class name="com.qa.demoshop.testcases.TestCasesExecution">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="setUp" is-config="true" duration-ms="32427" started-at="2020-10-11T16:13:33Z" finished-at="2020-10-11T16:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPage()[pri:1, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="loginPage" duration-ms="3583" started-at="2020-10-11T16:14:06Z" finished-at="2020-10-11T16:14:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method status="PASS" signature="clickOnBook()[pri:2, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="clickOnBook" duration-ms="7294" started-at="2020-10-11T16:14:09Z" finished-at="2020-10-11T16:14:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBook -->
+        <test-method status="PASS" signature="clickOnAddToCart()[pri:3, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="clickOnAddToCart" duration-ms="379" started-at="2020-10-11T16:14:16Z" finished-at="2020-10-11T16:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddToCart -->
+        <test-method status="PASS" signature="validateProduct()[pri:4, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="validateProduct" duration-ms="223" started-at="2020-10-11T16:14:17Z" finished-at="2020-10-11T16:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProduct -->
+        <test-method status="PASS" signature="shopCart()[pri:5, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="shopCart" duration-ms="4119" started-at="2020-10-11T16:14:17Z" finished-at="2020-10-11T16:14:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopCart -->
+        <test-method status="PASS" signature="dropDownAddress()[pri:6, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="dropDownAddress" duration-ms="8339" started-at="2020-10-11T16:14:21Z" finished-at="2020-10-11T16:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropDownAddress -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.demoshop.testcases.TestCasesExecution@7a92922]" name="tearDown" is-config="true" duration-ms="5499" started-at="2020-10-11T16:14:29Z" finished-at="2020-10-11T16:14:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.demoshop.testcases.TestCasesExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
